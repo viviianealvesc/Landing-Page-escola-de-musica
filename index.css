@@ -15,6 +15,7 @@
 }
 
 body {
+    cursor: url('./image/nota-musical.png'), auto;
     background: linear-gradient(90deg, #ffe7d1 0%, #fff2e6 100%);
     padding: 0 1rem;
 }
